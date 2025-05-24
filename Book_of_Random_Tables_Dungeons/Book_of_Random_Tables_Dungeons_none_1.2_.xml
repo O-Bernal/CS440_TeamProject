@@ -1,0 +1,1707 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Book>
+  <Book-Version>1.2</Book-Version>
+  <Book-Name>Book of Random Tables Dungeons</Book-Name>
+  <Book-Author>none</Book-Author>
+  <TextList>
+    <TextList-Name>Random items in a Noble&#8217;s Bedchamber #1</TextList-Name>
+    <TextList-Type>D20</TextList-Type>
+    <TextList-Hidden>false</TextList-Hidden>
+    <Content>
+      <Content-Text>1. Burning letters</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>2. Hidden safe</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>3. Stuffed minotaur</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>4. Shrine to ancestors</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>5. Exquisite rug</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>6. Gold urn</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>7. Large wardrobe</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>8. Scepter</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>9. Signet ring</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>10. Key to safe</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>11. Lavish chair</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>12. Alchemical notes</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>13. Dragon skull with rubies for eyes</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>14. Expensive wine</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>15. Gold bathtub</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>16. Golden rose</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>17. Unfinished letter</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>18. Family crest</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>19. Silver urn</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>20. Gold-trimmed fan</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+  </TextList>
+  <TextList>
+    <TextList-Name>Random items in a Noble&#8217;s Bedchamber #2</TextList-Name>
+    <TextList-Type>D20</TextList-Type>
+    <TextList-Hidden>false</TextList-Hidden>
+    <Content>
+      <Content-Text>1. Large safe</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>2. Shrine to a god</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>3. Book of family lineage</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>4. Decorative axe</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>5. Golden chamberpot</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>6. Confiscated journal</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>7. Key made of green glass</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>8. Gold ring</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>9. Mortar and pestle</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>10. Plan to usurp the throne</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>11. Painting of noble&#8217;s manor</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>12. Shelf of hunting trophies</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>13. Painting of a beautiful woman</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>14. Small, locked box</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>15. Portrait of an ancestor</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>16. Dead body</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>17. Gold trimmed desk</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>18. Exquisite vase</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>19. Caged falcon</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>20. Gold statuette</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+  </TextList>
+  <TextList>
+    <TextList-Name>Random items in a desk</TextList-Name>
+    <TextList-Type>D100</TextList-Type>
+    <TextList-Hidden>false</TextList-Hidden>
+    <Content>
+      <Content-Text>1. Letter asking a wizard for help</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>2. Child&#8217;s drawing</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>3. Spell scroll (level 2)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>4. Vellum (1D4 sheets)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>5. Map of shipping routes</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>6. Gold pieces (1D10)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>7. Unfinished novel manuscript</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>8. Hit list</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>9. Straight edge</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>10. Gold pieces (1D20)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>11. Parchment (1D12 sheets)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>12. List of rare books</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>13. Monacle</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>14. Spell scroll (level 3)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>15. Silver pieces (1D12)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>16. Bull horn trumpet</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>17. Metal cup</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>18. Copper pieces (1D6)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>19. Map to a hidden mine</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>20. Dagger with deer antler handle</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>21. Sewing kit</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>22. Parchment (1D10 sheets)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>23. Map of trade routes</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>24. Rabbit&#8217;s foot</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>25. Ceramic vase</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>26. Pack of cards</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>27. Ribbon (2&#8217;)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>28. Bust of legendary leader</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>29. Metal bowl</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>30. Prayer book</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>31. Silver pieces (1D8)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>32. Contract</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>33. Wooden bowl</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>34. Protractor</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>35. Spectacles</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>36. Wooden cup</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>37. Mummified monkey hand</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>38. Copper pieces (1D12)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>39. Book of local history</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>40. Book of poems</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>41. Gold locket</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>42. Incriminating letter</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>43. Bud vase</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>44. Copper pieces (1D10)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>45. Paper weight</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>46. Candles (1D6)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>47. Portrait of a young girl</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>48. Map of the town</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>49. Key</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>50. Wax (2 cubes)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>51. Ink blotter</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>52. Tiny flask of liquor</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>53. Gold pieces (1D8)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>54. Paintbrush</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>55. Copper pieces (1D20)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>56. Abacus</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>57. Wanted poster</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>58. Signet ring</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>59. Tiny Hourglass</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>60. Scissors</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>61. Ink bottle (empty)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>62. Map of nearby city</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>63. Recipe card</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>64. Short sword</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>65. Scarab brooch</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>66. Stuffed owl</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>67. Half a map to a treasure hoard</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>68. Bookmark with goldleaf details</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>69. Tobacco</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>70. Magnifying glass</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>71. Map of the stars</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>72. Dead mouse</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>73. Wax (1D6 cubes)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>74. Account ledger</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>75. Foreign coin (Gold)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>76. Red glass dragon figurine</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>77. Compass</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>78. Piece of amber with a fly inside</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>79. Pressed Flower</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>80. Handkerchief</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>81. Scribe&#8217;s knife</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>82. Ornate Fan</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>83. Candle holder</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>84. Quills (1D4)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>85. Spell scroll (level 1)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>86. Ivory statuette</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>87. Bag of crocodile teeth</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>88. Personal Diary</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>89. Love letter</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>90. Ink bottle (full)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>91. Foreign coin (silver)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>92. Red glass marble</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>93. Jade elephant statuette</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>94. Paint Pigments</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>95. Ink stick and stone</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>96. A drawing of a ruined tower</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>97. Map to a dungeon</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>98. Sketchbook</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>99. Silver arrowhead</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>100. Candles (2)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+  </TextList>
+  <TextList>
+    <TextList-Name>Medicinal Herbs found in the Abbey</TextList-Name>
+    <TextList-Type>D20</TextList-Type>
+    <TextList-Hidden>false</TextList-Hidden>
+    <Content>
+      <Content-Text>1. Coltsfoot</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>2. Balm</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>3. Buckthorn</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>4. Anise</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>5. Horehound</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>6. Comfrey</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>7. Dandelion</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>8. Fenugreek</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>9. Yarrow</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>10. Vervain</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>11. Chamomile</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>12. St. John&#8217;s Wort</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>13. Myrrh</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>14. Hyssop</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>15. Motherwort</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>16. Pennyroyal</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>17. Feverfew</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>18. Burdock</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>19. Mugwort</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>20. Musk Mallow</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+  </TextList>
+  <TextList>
+    <TextList-Name>Random Town Quests</TextList-Name>
+    <TextList-Type>D12</TextList-Type>
+    <TextList-Hidden>false</TextList-Hidden>
+    <Content>
+      <Content-Text>1. A fuller asks the party to deliver a load of wool to a weaver.</Content-Text>
+      <Content-Chance>8.333333333333332</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>2. A group of bandits have set up a roadblock on the East Road. They&#8217;re demanding &#8220;tolls&#8221; from everyone who passes. The town is offering a substantial reward, if the road is reopened.</Content-Text>
+      <Content-Chance>8.333333333333332</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>3. The mayor asks the party to search some abandoned buildings at the edge of town. They have fallen into disrepair, and people have reported seeing strange things around them.</Content-Text>
+      <Content-Chance>8.333333333333332</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>4. A new religion has sprung up in town. A charismatic leader is gaining followers and spreading a message of prosperity and wealth. There are whispers of strange rituals and unwholesome acts. The party is asked to investigate.</Content-Text>
+      <Content-Chance>8.333333333333332</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>5. An army of centaurs sweeps across the vast grasslands. They are looting and burning as they go. A town wishes to send an envoy, but no one is brave enough to go. Will the adventurers take up this task?</Content-Text>
+      <Content-Chance>8.333333333333332</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>6. The local baker is actually the big boss of an underground crime syndicate involving several villages in the area. He&#8217;s looking to hire someone to take his secret messages (baked in large loaves of bread) to his contacts.</Content-Text>
+      <Content-Chance>8.333333333333332</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>7. An innkeeper asks the party to help finish digging his fruit seller.</Content-Text>
+      <Content-Chance>8.333333333333332</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>8. A poor farming family needs help against bandits trying to steal their land.</Content-Text>
+      <Content-Chance>8.333333333333332</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>9. A circus has come into town, and the beast master has gotten drunk and forgotten to lock the cages. Animals big and small, tame and wild, magical and common, are running amok!</Content-Text>
+      <Content-Chance>8.333333333333332</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>10. A blacksmith asks the party to bring him a load of coal from the other side of town.</Content-Text>
+      <Content-Chance>8.333333333333332</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>11. An innkeeper asks the party to collect gold from a patron who is refusing to pay.</Content-Text>
+      <Content-Chance>8.333333333333332</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>12. A weaver asks the party to deliver fabric to a tailor.</Content-Text>
+      <Content-Chance>8.333333333333332</Content-Chance>
+    </Content>
+  </TextList>
+  <TextList>
+    <TextList-Name>Random Booths in a Market</TextList-Name>
+    <TextList-Type>D100</TextList-Type>
+    <TextList-Hidden>false</TextList-Hidden>
+    <Content>
+      <Content-Text>1. Beans</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>2. Street food (noodles)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>3. Scrolls</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>4. Coffee</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>5. Cheeses</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>6. Locks</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>7. Gold items</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>8. Cookware (pewter)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>9. Clothes</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>10. Teas</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>11. Ink</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>12. Fabric</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>13. Lamps</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>14. Street food (rice)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>15. Pastries</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>16. Oats</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>17. Tents</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>18. Wood carvings</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>19. Opium</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>20. Herbs</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>21. Street food (stew)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>22. Moneylender</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>23. Books</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>24. Fresh vegetables</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>25. Lager</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>26. Blankets</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>27. Shoes</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>28. Bread</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>29. Glass items</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>30. Street food (fried meats)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>31. Dried fruits</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>32. Paint</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>33. Fish</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>34. Rugs</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>35. Honey</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>36. Rope</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>37. Pelts</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>38. Public scribe</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>39. Armor</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>40. Idols</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>41. Canvas</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>42. Charms</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>43. Meat pies</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>44. Wool</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>45. Weapons</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>46. Oils</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>47. Trotters</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>48. Eggs</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>49. Music instruments</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>50. Biscuits</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>51. Silver Items</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>52. Fortune teller</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>53. Oysters</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>54. Ceramics</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>55. Lumber</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>56. Games</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>57. Medicines</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>58. Fresh meats</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>59. Wooden Figurines</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>60. Eels</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>61. Potions</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>62. Crabs</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>63. Fruit pies</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>64. Jade items</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>65. Snake oil</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>66. Griddle cakes</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>67. Baskets</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>68. Smoked meats</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>69. Wafers</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>70. Cookware (iron)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>71. Spiced meat pasties</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>72. Nuts</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>73. Spices</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>74. Flan</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>75. Incense</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>76. Hookah</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>77. Mussels</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>78. Tarts</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>79. Dried meats</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>80. Pipes</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>81. Soap</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>82. Gemstones</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>83. Silk</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>84. Salt</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>85. Fresh fruits</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>86. Fans</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>87. Snails</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>88. Sponges</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>89. Jewelry</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>90. Street food (kabobs)</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>91. Ale</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>92. Goats</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>93. Clams</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>94. Ivory items</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>95. Wines</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>96. Seeds</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>97. Chickens</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>98. Knife sharpener</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>99. Grains</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>100. Leather items</Content-Text>
+      <Content-Chance>1.0</Content-Chance>
+    </Content>
+  </TextList>
+  <TextList>
+    <TextList-Name>Items found on a beach</TextList-Name>
+    <TextList-Type>D20</TextList-Type>
+    <TextList-Hidden>false</TextList-Hidden>
+    <Content>
+      <Content-Text>1. Conch seashell</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>2. Coin</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>3. Broken net</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>4. Dead fi sh</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>5. Gold earring</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>6. Fish bones</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>7. Message in a bottle</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>8. Fishing hook</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>9. Crab shell</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>10. Ivory brooch</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>11. Fishing line (10 feet)</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>12. Toy boat</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>13. Silver ring with a small garnet</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>14. Small shovel</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>15. Starfi sh</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>16. Broken sandal</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>17. Silver bracelet</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>18. Bivalve seashell</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>19. Clam shell</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>20. Sea glass</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+  </TextList>
+  <TextList>
+    <TextList-Name>Random Inn encounters</TextList-Name>
+    <TextList-Type>D20</TextList-Type>
+    <TextList-Hidden>false</TextList-Hidden>
+    <Content>
+      <Content-Text>1. Two patrons draw swords and face each other.</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>2. Goblin war party bursts in. (1D12)</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>3. Huge rough-looking human announces, &#8220;Every bard in here needs to leave now.&#8221;</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>4. As a character sits down, they notice a bundle of letters in the chair.</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>5. A drunk father brags about his smoking hot fairy wife who gave him a daughter that can spin straw into gold.</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>6. One character&#8217;s chair breaks.</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>7. Guards come in and announce that the mayor has ordered the inn closed.</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>8. A small boy is moving through the crowd, performing magic tricks for a few coins. He has an easy-going,likable manner, and the customers find themselves disposed to indulge him. However, you notice as he moseys about the room, his fingers seem to find the wallets of the preoccupied patrons.</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>9. A halfling seems to be having trouble lighting his pipe.</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>10. All patrons stare at the party.</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>11. Rough-looking dwarf jumps behind the bar and grabs the till.</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>12. Patron hands the party a sealed letter and says to keep in safe.</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>13. A troupe is performing a play.</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>14. Sign: &#8220;Cook wanted.&#8221;</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>15. A dwarf keeps staring at the party</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>16. Common room erupts into a huge brawl.</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>17. Cook shouts, &#8220;I quit!&#8221; and storms out.</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>18. Fight breaks out next to the party.</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>19. Sign: &#8220;Half-elves, we don&#8217;t serve your kind.&#8221;</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>20. Fire breaks out in the common room.</Content-Text>
+      <Content-Chance>5.0</Content-Chance>
+    </Content>
+  </TextList>
+  <TextList>
+    <TextList-Name>Random items in an Inn&#8217;s kitchen</TextList-Name>
+    <TextList-Type>WEIGHTED</TextList-Type>
+    <TextList-Hidden>false</TextList-Hidden>
+    <Content>
+      <Content-Text>1. Meat tenderizer</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>2. Frying pan</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>3. Butter (2lbs)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>4. Copper pieces (3D20)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>5. Biscuits (50 freshly baked)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>6. Apples (1D20)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>7. Wine bottle (half full)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>8. Bowl (metal)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>9. Pork (half side)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>10. Bacon (4lbs)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>11. Secret door (floor)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>12. Spoon (wooden)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>13. Meat Cleaver</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>14. Salt Box</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>15. Hanging Cottage Cheese</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>16. Tea Kettle</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>17. Bread knife</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>18. Earthenware Crock</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>19. Pot (Large)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>20. Salt Bin</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>21. Incriminating letter</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>22. Cutting board</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>23. Jar of Brine</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>24. Bag of charcoal (100lbs)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>25. Bread (1D10 loaves)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>26. Mutton (side)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>27. Garlic</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>28. Set of Cutlery</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>29. Rolling pin</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>30. Dish Towels</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>31. Spoon (metal)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>32. Onions (1D6)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>33. Plates (6 wooden)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>34. Turn Spit Dog</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>35. Mice (1D20)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>36. Plates (8 ceramic)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>37. Rabbit meat (1D8)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>38. Small wooden box (locked)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>39. Cheese wheels (1D4)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>40. Stew (10 bowls)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>41. Pie weights (3)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>42. Pastry Cutter</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>43. Ginger</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>44. Venison (side)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>45. Horse chestnut</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>46. Love letter</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>47. Walnuts (1D20)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>48. Cauldron (empty)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>49. Wine bottle (full)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>50. Pie Pan</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>51. Onions (1D12)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>52. Turnips (1D10)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>53. Blue glass bottle with a strange symbol</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>54. Lantern</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>55. Flatware (10 sets)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>56. Turnspit</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>57. Bellows</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>58. Butter (1lb)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>59. Map to a dungeon</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>60. Chicken eggs (1D12)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>61. Sharpening stone</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>62. Venison (half side)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>63. Sauce pan</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>64. Cheesecloth</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>65. Rats (1D20)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>66. Red clover</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>67. Paring knife</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>68. Sage</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>69. Parsley</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>70. Wire cheese cutter</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>71. Mint Leaves</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>72. Dill Weed</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>73. Rosemary Leaves</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>74. Candles (2)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>75. Cheese wheel (1)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>76. Milk (1 gallon)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>77. Pancake batter (1lbs)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>78. Hot coals</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>79. Thyme Leaves</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>80. Knife</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>81. Bowl (Wooden)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>82. Chamomile Tea</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>83. Ham (raw)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>84. Mortar and pestle</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>85. Cheese wheel (1/2)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>86. Plum pie</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>87. Beef (side)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>88. Fennel Root</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>89. Turmeric</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>90. Fire poker</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>91. Butter (1/2lbs)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>92. Crock of Pottage</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>93. Ham (baked)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>94. Pudding</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>95. Butter churn</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>96. Kindling (1D20)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>97. Salt (2lbs)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>98. Firewood (2D20 logs)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>99. Butter (4lbs)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>100. Secret door (ceiling)</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>19. Sign: &#8220;Half-elves, we don&#8217;t serve your kind.&#8221;</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+    <Content>
+      <Content-Text>20. Fire breaks out in the common room</Content-Text>
+      <Content-Chance>0.9803921568627451</Content-Chance>
+    </Content>
+  </TextList>
+</Book>
