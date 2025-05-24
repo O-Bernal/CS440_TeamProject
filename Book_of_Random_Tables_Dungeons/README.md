@@ -91,7 +91,7 @@ All automated tests live in `tests/`. They launch in a temporary workspace so yo
 
 ## License
 
-MIT – replace with your team’s preferred license if different.
+None
 
 ---
 
