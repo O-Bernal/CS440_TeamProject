@@ -7,7 +7,7 @@ Hydra Lists (Steam / itch.io) is a GUI dice-roller for Game Masters: import a bu
 
 ## Project layout
 ```yaml
-project/
+Book_of_Random_Tables_Dungeons/
 ├── hydra_convert.py                # converter script
 ├── inputs/                         # put your .txt source tables here
 ├── outputs/                        # finished .hllib bundles appear here
@@ -99,4 +99,5 @@ None
 
 *Example data from Matt Davids’ “Book of Random Tables” series*  
 *Hydra Lists by Lambda Dice*  
-*Converter & tests by **YOUR-TEAM-NAME***
+*Converter by Daughtry, R.
+*Tests by CS440 Team 2
