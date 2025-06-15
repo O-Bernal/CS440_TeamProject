@@ -1,6 +1,6 @@
 # CS440 Team Project: SQA of Hydra Convert
 
-![Coverage](https://img.shields.io/codecov/c/github/O-Bernal/CS440_TeamProject)(https://app.codecov.io/gh/O-Bernal/CS440_TeamProject/)
+[![CI](https://github.com/O-Bernal/CS440_TeamProject/actions/workflows/ci.yml/badge.svg)](https://github.com/O-Bernal/CS440_TeamProject/actions/workflows/ci.yml)
 
 Hydra Convert turns plain-text random-table files into Hydra Lists library bundles (.hllib).
 ...
