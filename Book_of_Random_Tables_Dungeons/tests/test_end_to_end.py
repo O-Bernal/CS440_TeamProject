@@ -19,7 +19,7 @@ def test_full_conversion(tmp_path, monkeypatch):
 
     # ── Act ────────────────────────────────────
     import hydra_convert
-    importlib.reload(hydra_convert) # force fresh run
+    hydra_convert.main()
 
     # ── Assert ────────────────────────────────
     out = list((tmp_path / "outputs").glob("*.hllib"))

@@ -143,6 +143,5 @@ def main(input_dir: str = INPUTS_FOLDER, output_dir: str = OUTPUTS_FOLDER) -> No
             f_out.write(archive.read())
         print(f"Converted book: {book_name}")
 
-
-# Automatic conversion on import
-main()
+if __name__ == "__main__":
+    main()
