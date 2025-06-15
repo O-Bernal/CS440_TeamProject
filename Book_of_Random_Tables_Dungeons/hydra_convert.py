@@ -1,114 +1,148 @@
+"""
+Hydra Converter
+Converts plain-text random-table files into Hydra Lists library bundles (.hllib).
+"""
+# pylint: disable=E0611, R0911, R0914, I1101
+
 import os
-#import shutil
+import re
 import zipfile
-from lxml import etree as ET
-from lxml.builder import E
 from io import BytesIO
 
-inputs_folder = os.path.join(os.getcwd(), "inputs")
-outputs_folder = os.path.join(os.getcwd(), "outputs")
+from lxml import etree as ET
+from lxml.builder import E
 
-if not os.path.exists(inputs_folder):
-    raise ValueError("Inputs path does not exist.")
+# Constants
+VERSION = '1.2'
+AUTHOR = 'none'
+INPUTS_FOLDER = "inputs"
+OUTPUTS_FOLDER = "outputs"
+XML_HEADER = b'<?xml version="1.0" encoding="UTF-8" standalone="no"?>\r\n'
 
-if not os.path.exists(outputs_folder):
-    os.makedirs(outputs_folder)
 
-# get all the input files
-input_files = [os.path.join(inputs_folder, x) for x in os.listdir(inputs_folder) if os.path.isfile(os.path.join(inputs_folder, x))]
-
-def make_book(file_name):
-    # ingest file
-    with open(file_name, "r", encoding="utf8") as f:
-        lines = [x.strip() for x in f.readlines()]
-    book_name = lines.pop(0)
-    lists = []
-    current_list = {}
+def parse_table(file_path: str) -> dict:
+    """Parse a single-table text file into {'name': table_name, 'entries': [...]}."""
+    with open(file_path, "r", encoding="utf-8") as f:
+        lines = [l.strip() for l in f if l.strip()]
+    table_name = ''
+    entries = []
     for line in lines:
-        if len(line.strip()) == 0:
-            continue
-        elif line[0] == "=":
-            if current_list != {}:
-                lists.append(current_list)
-            current_list = {}
-            current_list["name"] = line[1:]
-            current_list["entries"] = []
+        if line.startswith('='):
+            table_name = line.lstrip('=').strip()
         else:
-            current_list["entries"].append(line)
-    # final append
-    lists.append(current_list)
-    # now we need to create the XMLs:
-    meta_xml = E("Library",
-             E("Version", "1.2"),
-             E("Name", book_name),
-             E("Author", "none"),
-             E("Description", "Default"),
-             E("LibIcon", "puzzle"),
-             E("WorkshopId", "-1")
+            entries.append(re.sub(r'^\d+\.\s*', '', line))
+    return {'name': table_name, 'entries': entries}
+
+
+def parse_book(file_path: str) -> dict:
+    """Parse a multi-table file: first line is book_name, '=' lines start new tables."""
+    with open(file_path, "r", encoding="utf-8") as f:
+        lines = [l.strip() for l in f if l.strip()]
+    if not lines:
+        return {'book_name': '', 'tables': []}
+    book_name = lines[0]
+    tables = []
+    current = None
+    for line in lines[1:]:
+        if line.startswith('='):
+            current = {'name': line.lstrip('=').strip(), 'entries': []}
+            tables.append(current)
+        elif current is not None:
+            current['entries'].append(re.sub(r'^\d+\.\s*', '', line))
+    return {'book_name': book_name, 'tables': tables}
+
+
+def pick_die_type(count: int) -> str:
+    """Exact-match for canonical sizes; <4→D4; >20→D20; else WEIGHTED."""
+    mapping = {4: 'D4', 6: 'D6', 8: 'D8', 10: 'D10', 12: 'D12', 20: 'D20', 100: 'D100'}
+    if count in mapping:
+        return mapping[count]
+    if count < 4:
+        return 'D4'
+    if count > 20:
+        return 'D20'
+    return 'WEIGHTED'
+
+
+def make_book(file_path: str) -> tuple:
+    """Generate meta, book XML elements and base name from a table file."""
+    parsed = parse_book(file_path)
+    book_name = parsed['book_name']
+    tables = parsed['tables']
+
+    # Build metadata XML
+    meta_xml = E(
+        'Library',
+        E('Version', VERSION),
+        E('Name', book_name),
+        E('Author', AUTHOR),
+        E('Description', 'Default'),
+        E('LibIcon', 'puzzle'),
+        E('WorkshopId', '-1')
     )
-    book_xml = E("Book",
-             E("Book-Version", "1.2"),
-             E("Book-Name", book_name),
-             E("Book-Author", "none")             
-             )
-    for list in lists:
-        list_length = len(list["entries"])
-        list_type = None
-        match list_length:
-            case 4:
-                list_type = "D4"
-            case 6:
-                list_type = "D6"
-            case 8:
-                list_type = "D8"
-            case 10:
-                list_type = "D10"
-            case 12:
-                list_type = "D12"
-            case 20:
-                list_type = "D20"
-            case 100:
-                list_type = "D100"
-            case _:
-                list_type = "WEIGHTED"
-        list_xml = E("TextList",
-                     E("TextList-Name", list["name"]),
-                     E("TextList-Type", list_type),
-                     E("TextList-Hidden", "false")
-                     )        
-        for entry in list["entries"]:
-            item = E("Content",
-                     E("Content-Text", entry),
-                     E("Content-Chance", str((1 / list_length) * 100))
-                     )
-            list_xml.append(item)
-        book_xml.append(list_xml)
+
+    # Build book XML
+    book_xml = E(
+        'Book',
+        E('Book-Version', VERSION),
+        E('Book-Name', book_name),
+        E('Book-Author', AUTHOR)
+    )
+
+    # Append each table
+    for tbl in tables:
+        die_type = pick_die_type(len(tbl['entries']))
+        text_list = E(
+            'TextList',
+            E('TextList-Name', tbl['name']),
+            E('TextList-Type', die_type),
+            E('TextList-Hidden', 'false')
+        )
+        for entry in tbl['entries']:
+            chance = str((1 / len(tbl['entries'])) * 100)
+            content = E(
+                'Content',
+                E('Content-Text', entry),
+                E('Content-Chance', chance)
+            )
+            text_list.append(content)
+        book_xml.append(text_list)
 
     return meta_xml, book_xml, book_name
 
-for input_file in input_files:
-    file_meta_xml, file_book_xml, book_name = make_book(input_file)
 
-    xml_header = b'<?xml version="1.0" encoding="UTF-8" standalone="no"?>\r\n'
+def main(input_dir: str = INPUTS_FOLDER, output_dir: str = OUTPUTS_FOLDER) -> None:
+    """Process all .txt files in input_dir into .hllib bundles in output_dir."""
+    cwd = os.getcwd()
+    in_path = os.path.join(cwd, input_dir)
+    out_path = os.path.join(cwd, output_dir)
 
-    meta_file = xml_header + ET.tostring(file_meta_xml, pretty_print = True)
-    book_file = xml_header + ET.tostring(file_book_xml, pretty_print = True)
+    if not os.path.isdir(in_path):
+        raise FileNotFoundError(f"Input directory does not exist: {in_path}")
+    os.makedirs(out_path, exist_ok=True)
 
-    file_dict = {
-        "meta.hlmeta": meta_file,
-        book_name.replace(" ", "_") + "_none_1.2_.xml" : book_file
-    }
+    for fname in os.listdir(in_path):
+        if not fname.lower().endswith('.txt'):
+            continue
+        full_path = os.path.join(in_path, fname)
+        meta_xml, book_xml, book_name = make_book(full_path)
 
-    in_memory_zip = BytesIO()
-    with zipfile.ZipFile(in_memory_zip, 'w') as zf:
-        for filename, data in file_dict.items():
-            zf.writestr(filename, data)
-    in_memory_zip.seek(0)
+        # Create in-memory .hllib archive
+        archive = BytesIO()
+        with zipfile.ZipFile(archive, 'w') as zf:
+            meta_bytes = XML_HEADER + ET.tostring(meta_xml, pretty_print=True)
+            book_bytes = XML_HEADER + ET.tostring(book_xml, pretty_print=True)
+            zf.writestr('meta.hlmeta', meta_bytes)
+            xml_filename = f"{book_name.replace(' ', '_')}_{AUTHOR}_{VERSION}_.xml"
+            zf.writestr(xml_filename, book_bytes)
+        archive.seek(0)
 
-    out_file = os.path.join(outputs_folder, book_name.replace(" ", "_") + ".hllib")
+        # Write .hllib
+        hllib_name = f"{book_name.replace(' ', '_')}.hllib"
+        with open(os.path.join(out_path, hllib_name), 'wb') as f_out:
+            f_out.write(archive.read())
+        print(f"Converted book: {book_name}")
 
-    with open(out_file, 'wb') as f:
-        f.write(in_memory_zip.read())
 
-    print(f"Converted book: {book_name}")
-
+# Automatic conversion on import
+main()

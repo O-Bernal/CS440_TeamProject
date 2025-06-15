@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Coverage and test output
+coverage.xml
+Book_of_Random_Tables_Dungeons/coverage.xml
+Book_of_Random_Tables_Dungeons/outputs/
+
 # Distribution / packaging
 .Python
 build/

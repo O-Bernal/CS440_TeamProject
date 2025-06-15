@@ -1,4 +1,9 @@
-# Hydra Convert
+# CS440 Team Project: SQA of Hydra Convert
+
+![Coverage](https://img.shields.io/codecov/c/github/O-Bernal/CS440_TeamProject)
+
+Hydra Convert turns plain-text random-table files into Hydra Lists library bundles (.hllib).
+...
 
 **Hydra Convert** is a small command-line utility that turns plain-text “random-table” files into **Hydra Lists** library bundles (`.hllib`).  
 Hydra Lists (Steam / itch.io) is a GUI dice-roller for Game Masters: import a bundle, click the dice icon, and it rolls results instantly.
@@ -30,9 +35,6 @@ Book_of_Random_Tables_Dungeons/
 
 `pip install lxml pytest hypothesis`
 
-* If you prefer a lockfile, add those to `requirements.txt` and run:
-
-`pip install -r requirements.txt`.
 
 ---
 
