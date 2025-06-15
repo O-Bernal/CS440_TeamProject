@@ -1,7 +1,7 @@
 import textwrap
 from pathlib import Path
 from lxml import etree as ET
-import hydra_convert     # import AFTER site-packages are available
+import hydra_convert
 
 def test_basic_book(tmp_path):
     """A 4-entry and a 6-entry list become D4 and D6 tables with equal chances."""
